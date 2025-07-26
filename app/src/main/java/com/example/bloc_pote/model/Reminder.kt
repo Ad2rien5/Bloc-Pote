@@ -1,5 +1,6 @@
 package com.example.bloc_pote.model
 
+import com.example.bloc_pote.model.enumeration.RemindType
 import java.time.LocalDateTime
 import java.util.UUID
 
