@@ -1,17 +1,17 @@
 package com.example.bloc_pote.model.enumeration
 
 enum class RemindType {
-    OneTime,
-    Daily,
-    Weekly,
-    Monthly;
+    ONETIME,
+    DAILY,
+    WEEKLY,
+    MONTHLY;
 
     override fun toString(): String {
         return when (this) {
-            OneTime -> "1 Time"
-            Daily -> "Daily"
-            Weekly -> "Weekly"
-            Monthly -> "Monthly"
+            ONETIME -> "1 Time"
+            DAILY -> "Daily"
+            WEEKLY -> "Weekly"
+            MONTHLY -> "Monthly"
         }
     }
 }
