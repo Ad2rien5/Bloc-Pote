@@ -1,10 +1,10 @@
-package com.example.bloc_pote.model
+package com.example.blocpote.model
 
-import com.example.bloc_pote.model.enumeration.ColourTheme
-import com.example.bloc_pote.model.enumeration.Langage
+import com.example.blocpote.model.enumeration.ColorTheme
+import com.example.blocpote.model.enumeration.Langage
 
 class User private constructor() {
-    var theme: ColourTheme = ColourTheme.PURPLE
+    var theme: ColorTheme = ColorTheme.PURPLE
     var langage: Langage = Langage.ENGLISH
     var purgeTrash: Int = 15
 

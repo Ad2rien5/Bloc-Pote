@@ -1,6 +1,6 @@
-package com.example.bloc_pote.model
+package com.example.blocpote.model
 
-import com.example.bloc_pote.exception.UnauthorisedAccessException
+import com.example.blocpote.exception.UnauthorisedAccessException
 import java.util.UUID
 
 class Task(

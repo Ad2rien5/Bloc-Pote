@@ -19,5 +19,5 @@ dependencyResolutionManagement {
     }
 }
 
-rootProject.name = "Bloc-Pote"
+rootProject.name = "BlocPote"
 include(":app")

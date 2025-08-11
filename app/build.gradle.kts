@@ -4,11 +4,11 @@ plugins {
 }
 
 android {
-    namespace = "com.example.bloc_pote"
+    namespace = "com.example.blocpote"
     compileSdk = 36
 
     defaultConfig {
-        applicationId = "com.example.bloc_pote"
+        applicationId = "com.example.blocpote"
         minSdk = 29
         targetSdk = 36
         versionCode = 1

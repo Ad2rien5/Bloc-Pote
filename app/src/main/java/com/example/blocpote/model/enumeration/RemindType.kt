@@ -1,4 +1,4 @@
-package com.example.bloc_pote.model.enumeration
+package com.example.blocpote.model.enumeration
 
 enum class RemindType {
     ONETIME,

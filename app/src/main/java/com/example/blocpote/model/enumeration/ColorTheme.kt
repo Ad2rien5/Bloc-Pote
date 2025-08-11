@@ -1,6 +1,6 @@
-package com.example.bloc_pote.model.enumeration
+package com.example.blocpote.model.enumeration
 
-enum class ColourTheme {
+enum class ColorTheme {
     PURPLE;
 
     override fun toString(): String {

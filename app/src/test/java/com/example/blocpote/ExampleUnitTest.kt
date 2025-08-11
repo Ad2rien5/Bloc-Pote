@@ -1,4 +1,4 @@
-package com.example.bloc_pote
+package com.example.blocpote
 
 import org.junit.Test
 

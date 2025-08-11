@@ -1,7 +1,7 @@
-package com.example.bloc_pote.model
+package com.example.blocpote.model
 
-import com.example.bloc_pote.exception.UnauthorisedAccessException
-import com.example.bloc_pote.model.enumeration.RemindType
+import com.example.blocpote.exception.UnauthorisedAccessException
+import com.example.blocpote.model.enumeration.RemindType
 import java.time.LocalDateTime
 import java.util.UUID
 

@@ -1,4 +1,4 @@
-package com.example.bloc_pote
+package com.example.blocpote
 
 import android.os.Bundle
 import com.google.android.material.snackbar.Snackbar
@@ -9,7 +9,7 @@ import androidx.navigation.ui.navigateUp
 import androidx.navigation.ui.setupActionBarWithNavController
 import android.view.Menu
 import android.view.MenuItem
-import com.example.bloc_pote.databinding.ActivityMainBinding
+import com.example.blocpote.databinding.ActivityMainBinding
 
 class MainActivity : AppCompatActivity() {
 
